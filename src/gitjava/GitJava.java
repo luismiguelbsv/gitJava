@@ -17,6 +17,7 @@ public class GitJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hoy es Lunes 13");
+        System.out.println("Mañana es 14");
     }
     
 }
