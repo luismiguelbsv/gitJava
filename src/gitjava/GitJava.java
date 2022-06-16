@@ -19,6 +19,7 @@ public class GitJava {
         System.out.println("Hoy es Lunes 13");
         System.out.println("Mañana es 14");
         System.out.println("Pasado es 15");
+        System.out.println("Hoy es Juves 16");
         
     }
     
